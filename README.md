@@ -8,9 +8,9 @@ I build platform products, design APIs, and explore how AI tools can make Produc
 
 ## Open Source
 
-### [Claude Code PM Playbook](https://github.com/AnshulKummar/claude-code-pm-playbook)
+### [AI PM Playbook](https://github.com/AnshulKummar/ai-pm-playbook)
 
-A complete guide for Product Managers using Claude Code — from novice to advanced. Covers skills, commands, hooks, the 5-Act framework, and real PM workflows across 18 chapters.
+A complete, cloneable playbook for Product Managers using AI code assistants — skills, commands, hooks, the 5-Act framework, and PM workflows across 16 chapters. `git clone` and `bash setup.sh` to get started.
 
 ### [HipaaLint](https://github.com/shivyadavus/hipaalint) (Contributor)
 
