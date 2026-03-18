@@ -16,10 +16,6 @@ A complete, cloneable playbook for Product Managers using AI code assistants —
 
 An AI-powered HIPAA compliance linter — static analysis for healthcare software. I contribute to governance, compliance standards, and code review.
 
-### [pm-skills](https://github.com/phuryn/pm-skills) (Community Contributor)
-
-Proposed the `pm-governance` plugin — a decision governance layer with 4 skills and 3 commands for structured product management workflows. ([Issue #12](https://github.com/phuryn/pm-skills/issues/12))
-
 ---
 
 ## Connect
