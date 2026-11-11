@@ -1,6 +1,6 @@
 # Hi, I'm Anshul Kumar
 
-**Principal Group Product Manager** at [Paylocity](https://www.paylocity.com) | API Products, Platform & Integrations
+**Principal Product Manager** at [Intuit](https://www.intuit.com) | Tax Experience, GenAI, API Products, Platform & Integrations
 
 I build platform products, design APIs, and explore how AI tools can make Product Managers more effective.
 
